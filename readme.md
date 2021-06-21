@@ -1,4 +1,4 @@
-# Industrial Age -
+# Industrial Age - Don't Starve Together Mod
 
 This is an old project from 2013-2014. 
 It's a mod for Don't Starve Together.
